@@ -1,2 +1,2 @@
-FROM dockersamples_static-site
+FROM dockersamples/static-site
 ENV AUTHOR="Nobuhiro Saito"
